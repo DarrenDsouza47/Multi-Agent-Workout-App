@@ -65,7 +65,7 @@ This is a **Streamlit-based Personal Fitness Tool** that enables users to manage
 Contributions are welcome! Please open an issue or submit a pull request.
 
 ## Video
+[Watch the demo](output.mp4)
 
-(output.mp4)
 ---
 Developed with ❤️ using **Streamlit**.
