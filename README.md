@@ -67,5 +67,11 @@ Contributions are welcome! Please open an issue or submit a pull request.
 ## Video
 [Watch the demo](output.mp4)
 
+## Flows
+
+![image](https://github.com/user-attachments/assets/7c7906d4-326d-464a-a7e1-afa8c577a551)
+
+![image](https://github.com/user-attachments/assets/e31726de-41ef-409f-82fe-6b116ade02e3)
+
 ---
 Developed with ❤️ using **Streamlit**.
